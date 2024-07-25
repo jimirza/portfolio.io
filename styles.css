@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+}
+
+h1 {
+    margin-top: 20px;
+}
+
+.bio {
+    margin-top: 20px;
+}
+
+.bio img {
+    margin-bottom: 10px;
+}
+
+.project {
+    margin-top: 20px;
+}
+
+.project h2 {
+    font-size: 1.5rem;
+    color: #007bff;
+}
+
+.project p {
+    font-size: 1rem;
+}
+
+a {
+    color: #007bff;
+}
+
+a:hover {
+    color: #0056b3;
+}
